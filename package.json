@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Aarohi-mst.github.io/Live-Code-Editor",
+  "homepage": "https://aarohi-mst.github.io/Live-Code-Editor",
   "name": "live-code-editor",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@babel/standalone": "^7.28.5",
